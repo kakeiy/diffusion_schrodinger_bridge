@@ -1,0 +1,4 @@
+- dataset=2d
+- model=Basic
+- num_steps=20
+- num_iter=5000
